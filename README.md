@@ -1,5 +1,5 @@
 # JavaScript-Excercises
 
-![js](https://user-images.githubusercontent.com/49698792/182231509-5ea3a019-454c-47e1-8303-05fcf2014430.png)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Map, Filter, Reduce and other JS exercises
